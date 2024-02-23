@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Rahul.pdf";
+// import resumePDF from "../../assets/Rahul.pdf";
 import profile from "../../assets/profile-pic_Rahul.png"
 
 const Hero = () => {
@@ -21,7 +21,7 @@ const Hero = () => {
               data-aos="fade-up"
               className=" text-5xl font-bold sm:text-[2rem]"
             >
-              Hello, I'm Rahul Choudhary
+              Hello, I'm Hariom Dhakad
             </h2>
             <TypeAnimation
               data-aos="fade-up"
@@ -48,7 +48,7 @@ const Hero = () => {
               <span> Hire Me</span>
             </a>
             <a
-              href={resumePDF}
+              href={""}
               className="flex items-center gap-2 border- text-[1rem] bg-white border-black px-7 py-2 sm:px-6 rounded-lg font-bold  hover:text-yellow-500"
               download
             >
@@ -64,35 +64,35 @@ const Hero = () => {
               className=" flex gap-5"
             >
               <li>
-                <a href="https://github.com/Random-404error">
+                <a href="https://github.com/hr-dhakad47">
                   {" "}
                   <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/rahul-choudhary-73912b26b/">
+                <a href="https://www.linkedin.com/in/hariom-dhakad-756075295/">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://instagram.com/rahul_choudhary.rk?igshid=YTQwZjQ0NmI0OA==">
+                <a href="https://www.instagram.com/hr.dhakad_46505?igsh=MTBmY3dmenkybWw0Ng==">
                   {" "}
                   <AiFillInstagram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="https://www.facebook.com/RandomRk404?mibextid=2JQ9oc">
                   {" "}
                   <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <a href="https://x.com/RAHULCh58024590?t=zwXLptvkDEjxYyJpVP_nug&s=09">
                   {" "}
                   <AiFillTwitterCircle className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

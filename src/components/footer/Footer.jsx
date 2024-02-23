@@ -14,7 +14,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1000"
 
-            href="https://t.me/Ra_ka_u"
+            href="https://t.me/Hr_dhakad47"
             className="box font-medium text-white   flex items-center justify-center flex-col"
           >
             <FaTelegramPlane className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -23,7 +23,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1200"
 
-            href="https://wa.link/g5qjz0"
+            href="https://wa.link/pag9sp"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <IoLogoWhatsapp className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -32,7 +32,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1400"
 
-            href="https://instagram.com/rahul_choudhary.rk?igshid=YTQwZjQ0NmI0OA=="
+            href="https://www.instagram.com/hr.dhakad_46505?igsh=MTBmY3dmenkybWw0Ng=="
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <RiInstagramFill className=" text-black text-3xl hover:scale-125 cursor-pointer" />
